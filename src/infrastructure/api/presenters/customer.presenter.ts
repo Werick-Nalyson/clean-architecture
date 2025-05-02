@@ -7,7 +7,7 @@ export default class CustomerPresenter {
       header: true,
       indent: "  ",
       newline: '\n',
-      allowEmpty: true
+      allowEmpty: true,
     }
 
     return toXML (
